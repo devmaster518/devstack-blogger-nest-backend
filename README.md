@@ -25,6 +25,8 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+Visit http://localhost:3000/
+
 ## Test
 
 ```bash
@@ -37,7 +39,6 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
 
 &copy; 2024 @codeguru827
 
