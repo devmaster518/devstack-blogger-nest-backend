@@ -40,6 +40,12 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## API Load Tester by Python `locust`
+
+Run `api-load-tester-py/locustfile.py` file.
+
+![Locust Test Report](test_screenshot.jpg)
+
 &copy; 2024 @codeguru827
 
 All rights reserved.
